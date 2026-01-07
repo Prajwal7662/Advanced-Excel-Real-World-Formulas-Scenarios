@@ -12,6 +12,7 @@ Check if an employee is eligible for a lottery when salary > 50,000
 Name	Salary
 Prajwal	65000
 Rahul	42000
+
 🧮 Formula
 
 =IF(B2>50000,"Eligible for Lottery","Not Eligible")
